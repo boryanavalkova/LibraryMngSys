@@ -53,3 +53,11 @@ It uses the datetime module to detect the exact date when a book is being checke
 == Check member ID/book ID ==
 
 This function defines the range of possible inputs for member ID and book ID and validates the user input. If it is not correct it throws an error.
+
+It uses the datetime module to detect the exact date when a book is being checked out/returned.
+
+== Assignment restrictions ==
+1)	Must NOT include any Class type. 
+2)	Must NOT have any SQL statements.
+3)	Use Python v3.7 or above.
+4)	Must use only standard python libraries and Mathplotlib.
